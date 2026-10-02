@@ -7,7 +7,7 @@ Security researcher | Started March'26
 | Platform | Topic | Done |
 |----------|-------|------|
 | PortSwigger | SQL Injection | 6/18 |
-| TryHackMe | Various | 5 rooms |
+| TryHackMe | Various | N/A rooms |
 
 ## Skills
 Burp Suite | Nmap | SQLi | XSS | Python | Bash | AWS CLI
